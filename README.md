@@ -1,16 +1,5 @@
-# tic_tac_toe
+# Tic Tac Toe
 
-A funny game, Just try it.
+## A funny game, Just try it.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![ic_launcher](https://user-images.githubusercontent.com/101954795/177343661-4ab425ce-29ca-4818-8059-032b46140e03.png)
